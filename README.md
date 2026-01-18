@@ -14,14 +14,8 @@
 ---
 
 ## Sobre
-Sou um desenvolvedor focado em **Back-end**, com estudos e prática em **Python** e **Java**, construindo **APIs REST** e **automações**.  
-Tenho base em **SQL** e **Git** e busco evoluir continuamente em práticas de produção: **Docker**, **testes** e boas práticas de engenharia.
-
-**Foco atual**
-- APIs REST (Python/Java)
-- SQL (PostgreSQL) e fundamentos de modelagem
-- Versionamento com Git
-- Qualidade: testes e organização de código
+Sou um desenvolvedor focado em **Back-end**, com estudos e prática em **Python** e **Java**, construindo **APIs REST** e **automações**.
+Tenho base em **SQL** e **Git** e evoluo continuamente em boas práticas de engenharia.
 
 ---
 
@@ -30,18 +24,15 @@ Tenho base em **SQL** e **Git** e busco evoluir continuamente em práticas de pr
   <img src="https://skillicons.dev/icons?i=java,py,flask,fastapi,postgres,docker,git,linux" />
 </p>
 
-> Se você não usa FastAPI ainda, remova `fastapi`. Se não usa Docker ainda, pode remover também.
-
 ---
 
 ## Projetos
 - 🚀 **API REST (Python)** — CRUD, validação e documentação (Swagger/OpenAPI)
 - ☕ **API REST (Java)** — POO, endpoints e organização em camadas
-- 🗄️ **PostgreSQL + SQL** — modelagem e consultas
 - ⚙️ **Automação em Python** — padronização de rotinas e ganho de eficiência
-
+- 🗄️ **PostgreSQL + SQL** — modelagem e consultas
 
 ---
 
-## Estatísticas
-<img src="./metrics.svg" alt="GitHub Metrics" />
+## Gráfico de commits
+<img src="./metrics.svg" alt="Grafico de commits e métricas do GitHub" />
