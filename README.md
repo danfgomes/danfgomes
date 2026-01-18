@@ -32,7 +32,4 @@ Tenho base em **SQL** e **Git** e evoluo continuamente em boas práticas de enge
 - ⚙️ **Automação em Python** — padronização de rotinas e ganho de eficiência
 - 🗄️ **PostgreSQL + SQL** — modelagem e consultas
 
----
 
-## Gráfico de commits
-<img src="./metrics.svg" alt="Grafico de commits e métricas do GitHub" />
