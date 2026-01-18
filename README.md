@@ -1,6 +1,6 @@
 <h1 align="center">Daniel Gomes</h1>
 <p align="center">
-  Desenvolvedor Back-end • Python • APIs REST • SQL • Git
+  Back-end Developer • Python • APIs REST • SQL • Git
 </p>
 
 <p align="center">
@@ -13,42 +13,39 @@
 
 ---
 
-## Sobre mim
-Sou um desenvolvedor focado em **Back-end com Python**, construindo **APIs REST**, trabalhando com **SQL** e aplicando boas práticas para manter o código limpo e sustentável.  
-Atualmente desenvolvo **automações em Python** e busco evoluir em **deploy**, **testes** e **boas práticas**.
+## Sobre
+Sou um desenvolvedor focado em **Back-end com Python**, construindo **APIs REST** e **automações** que otimizam rotinas e reduzem trabalho manual.  
+Tenho base sólida em **SQL** e **Git** e busco evoluir continuamente em práticas de produção: **Docker**, **testes**, e **boas práticas**.
 
-- 🔭 Foco atual: **FastAPI/Django**, **PostgreSQL**, **Docker**
-- 🌱 Estudando: **pytest**, **CI/CD (GitHub Actions)** e fundamentos de **Cloud**
-- 💬 Stack: **Python**, **APIs REST**, **SQL**, **Git**
-- 📍 Brasil
+**Foco atual**
+- APIs REST (Python)
+- SQL (PostgreSQL) e modelagem básica
+- Docker e versionamento com Git
+- Qualidade: testes e organização de código
 
 ---
 
-## Tecnologias (Stack)
+## Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,py,flask,fastapi,postgres,docker,git,linux" />
 </p>
 
+
+
 ---
 
-## Estatísticas
+## Projetos
+- 🚀 **API REST (Python)** — CRUD, validação, documentação (Swagger/OpenAPI)
+- 🗄️ **Banco de dados (PostgreSQL)** — modelagem, consultas e boas práticas de SQL
+- ⚙️ **Automação em Python** — scripts para padronizar processos e aumentar produtividade
+
+> Quando você tiver os links, coloque aqui:  
+> `- 🚀 [Nome do projeto](link) — descrição em 1 linha`
+
+---
+
+## Estatísticas (GitHub)
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
 </p>
-
----
-
-## Projetos em destaque
-> Troque pelos seus repositórios (ou deixe como meta)
-
-- 🚀 **API REST com FastAPI** — endpoints, validação, documentação Swagger/OpenAPI
-- 🗄️ **CRUD + PostgreSQL** — modelagem, queries, migrations
-- ⚙️ **Automação em Python** — melhoria de rotina, padronização e eficiência
-
----
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN  
-- Email: SEU_EMAIL
-
