@@ -1,10 +1,10 @@
 <h1 align="center">Daniel Gomes</h1>
 <p align="center">
-  Back-end Developer • Python • APIs REST • SQL • Git
+  Desenvolvedor Back-end • Python • Java • APIs REST • SQL • Git
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/daniel-gomes-b8259b211" target="_blank">LinkedIn</a>
   •
   <a href="mailto:SEU_EMAIL">Email</a>
   •
@@ -14,13 +14,13 @@
 ---
 
 ## Sobre
-Sou um desenvolvedor focado em **Back-end com Python**, construindo **APIs REST** e **automações** que otimizam rotinas e reduzem trabalho manual.  
-Tenho base sólida em **SQL** e **Git** e busco evoluir continuamente em práticas de produção: **Docker**, **testes**, e **boas práticas**.
+Sou um desenvolvedor focado em **Back-end**, com estudos e prática em **Python** e **Java**, construindo **APIs REST** e **automações**.  
+Tenho base em **SQL** e **Git** e busco evoluir continuamente em práticas de produção: **Docker**, **testes** e boas práticas de engenharia.
 
 **Foco atual**
-- APIs REST (Python)
-- SQL (PostgreSQL) e modelagem básica
-- Docker e versionamento com Git
+- APIs REST (Python/Java)
+- SQL (PostgreSQL) e fundamentos de modelagem
+- Versionamento com Git
 - Qualidade: testes e organização de código
 
 ---
@@ -30,22 +30,18 @@ Tenho base sólida em **SQL** e **Git** e busco evoluir continuamente em prátic
   <img src="https://skillicons.dev/icons?i=java,py,flask,fastapi,postgres,docker,git,linux" />
 </p>
 
-
+> Se você não usa FastAPI ainda, remova `fastapi`. Se não usa Docker ainda, pode remover também.
 
 ---
 
 ## Projetos
-- 🚀 **API REST (Python)** — CRUD, validação, documentação (Swagger/OpenAPI)
-- 🗄️ **Banco de dados (PostgreSQL)** — modelagem, consultas e boas práticas de SQL
-- ⚙️ **Automação em Python** — scripts para padronizar processos e aumentar produtividade
+- 🚀 **API REST (Python)** — CRUD, validação e documentação (Swagger/OpenAPI)
+- ☕ **API REST (Java)** — POO, endpoints e organização em camadas
+- 🗄️ **PostgreSQL + SQL** — modelagem e consultas
+- ⚙️ **Automação em Python** — padronização de rotinas e ganho de eficiência
 
-> Quando você tiver os links, coloque aqui:  
-> `- 🚀 [Nome do projeto](link) — descrição em 1 linha`
 
 ---
 
-## Estatísticas (GitHub)
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
-</p>
+## Estatísticas
+<img src="./metrics.svg" alt="GitHub Metrics" />
