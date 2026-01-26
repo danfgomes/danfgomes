@@ -79,6 +79,6 @@ Atualmente participo da **Trilha de Java do programa Geração Caldeira**, evolu
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfgomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
