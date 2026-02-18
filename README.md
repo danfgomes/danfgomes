@@ -55,7 +55,7 @@ Atualmente participo da **Trilha de Java do programa Geração Caldeira**, evolu
 - Scrum e Agilidade
 - Formação em Java com POO
 - Data Science: análise e visualização de dados
-- Iniciante em programação
+
 
 ---
 
