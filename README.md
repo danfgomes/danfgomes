@@ -4,7 +4,7 @@
 
 Olá! Me chamo **Daniel Gomes**, sou desenvolvedor em formação e com atuação prática em desenvolvimento **back-end com Java**, com foco em **Programação Orientada a Objetos (POO)** e criação de **APIs REST** seguindo boas práticas.
 
-Atualmente participo da **Trilha de Java do programa Geração Caldeira**, evoluindo continuamente em fundamentos de back-end, lógica aplicada e projetos. Também possuo experiência com **SQL**, **Git** e **Python com Flask** para criação de APIs.
+Atualmente participei da **Trilha de Java do programa Geração Caldeira**, evoluindo continuamente em fundamentos de back-end, lógica aplicada e projetos. Também possuo experiência com **SQL**, **Git** e **Python com Flask** para criação de APIs.
 
 📍 Canoas - RS  
 📩 Contato: dg1638382@gmail.com  
