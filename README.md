@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Daniel Gomes
 
-**`Desenvolvedor Back-end Java` | `APIs REST` | `SQL` | `Git` | `Python (Flask)` | `POO`**
+**`Desenvolvedor Back-end python` | `APIs REST` | `SQL` | `Git` | `Python (Flask)` | `POO`**
 
 Olá! Me chamo **Daniel Gomes**, sou desenvolvedor em formação e com atuação prática em desenvolvimento **back-end com Java**, com foco em **Programação Orientada a Objetos (POO)** e criação de **APIs REST** seguindo boas práticas.
 
