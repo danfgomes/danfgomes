@@ -56,24 +56,19 @@ Atualmente participei da **Trilha de Java do programa Geração Caldeira**, evol
 - Formação em Java com POO
 - Data Science: análise e visualização de dados
 
-
 ---
 
 ## 📊 Estatísticas GitHub
 
-<p>
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=danfgomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfgomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    alt="Top Languages" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfgomes&layout=compact&theme=tokyonight&langs_count=5" 
   />
-</p>
+</div>
