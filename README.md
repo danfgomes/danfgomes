@@ -1,14 +1,14 @@
 # 👨🏻‍💻 Daniel Gomes
 
-**`Desenvolvedor Back-end python` | `APIs REST` | `SQL` | `Git` | `Python (Flask)` | `POO`**
+**`Python Back-end Developer` | `FastAPI` | `PostgreSQL` | `Docker` | `Java` | `Git`**
 
-Olá! Me chamo **Daniel Gomes**, sou desenvolvedor em formação e com atuação prática em desenvolvimento **back-end com Java**, com foco em **Programação Orientada a Objetos (POO)** e criação de **APIs REST** seguindo boas práticas.
+Olá! Me chamo **Daniel Gomes**, sou desenvolvedor back-end focado no ecossistema Python, construindo APIs performáticas com **FastAPI** e arquiteturas containerizadas com **Docker**. 
 
-Atualmente participei da **Trilha de Java do programa Geração Caldeira**, evoluindo continuamente em fundamentos de back-end, lógica aplicada e projetos. Também possuo experiência com **SQL**, **Git** e **Python com Flask** para criação de APIs.
+Possuo uma base sólida em **Programação Orientada a Objetos (POO)** vinda da minha experiência com **Java** (Trilha Geração Caldeira), o que me permite escrever código limpo e escalável. Atualmente, foco no desenvolvimento de soluções utilizando **PostgreSQL** para persistência de dados e boas práticas de desenvolvimento.
 
 📍 Canoas - RS  
 📩 Contato: dg1638382@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/daniel-gomes-b8259b211
+🔗 LinkedIn: [linkedin.com/in/daniel-gomes-b8259b211](https://www.linkedin.com/in/daniel-gomes-b8259b211)
 
 ---
 
@@ -18,7 +18,6 @@ Atualmente participei da **Trilha de Java do programa Geração Caldeira**, evol
   <a href="https://www.linkedin.com/in/daniel-gomes-b8259b211" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:dg1638382@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -29,32 +28,26 @@ Atualmente participei da **Trilha de Java do programa Geração Caldeira**, evol
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="left">
-  <img alt="Java" title="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring" title="Spring" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="Python" title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Flask" title="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-  <img alt="MySQL" title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="FastAPI" title="FastAPI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---
 
 ## 📌 Competências
 
-- APIs REST
-- SQL (modelagem e consultas)
-- Git/GitHub (versionamento)
-- Java (POO / boas práticas)
-- Python (Flask) para APIs
-- Metodologias Ágeis (Scrum)
+- **Back-end:** Desenvolvimento de APIs RESTful com FastAPI e Python.
+- **Banco de Dados:** Modelagem e consultas avançadas em PostgreSQL.
+- **DevOps/Infra:** Containerização de aplicações com Docker e Docker Compose.
+- **Fundamentos:** Fortes conhecimentos em POO, SOLID e Clean Code.
+- **Versionamento:** Git Flow e colaboração via GitHub.
+- **Agilidade:** Experiência com Scrum e metodologias ágeis.
 
 ---
-
-## 📚 Certificações / Estudos
-- Scrum e Agilidade
-- Formação em Java com POO
-- Data Science: análise e visualização de dados
 
 ---
 
@@ -70,5 +63,13 @@ Atualmente participei da **Trilha de Java do programa Geração Caldeira**, evol
     alt="Top Languages" 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfgomes&layout=compact&theme=tokyonight&langs_count=5" 
+  />
+</div>
+
+<div align="center">
+  <img 
+    alt="GitHub Activity Graph" 
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=danfgomes&theme=tokyonight&area=true&hide_border=true" 
   />
 </div>
